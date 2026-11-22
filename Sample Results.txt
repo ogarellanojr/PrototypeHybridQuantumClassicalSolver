@@ -1,0 +1,6 @@
+=== Hybrid Quantum-Classical Catastrophe Bond Solver Prototype ===
+Nonzero Pauli terms (L):         9
+LCU ancilla qubits (n_lcu):      4
+Total circuit qubits (w/ QSVT):  7
+LCU 1-norm factor (alpha_LCU):   2.040405
+Block-encoding max error:        0.00e+00
